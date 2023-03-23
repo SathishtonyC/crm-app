@@ -4,5 +4,13 @@ def create_contact():
 	print "contact creation done"
 
 #update lead 
-def update_contact():
-	print "contact update done."
+def edit_contact():
+	print "contact edit done."
+
+#get lead 
+def get_contact():
+	print "contact get done."
+
+#update lead 
+def delete_contact():
+	print "contact delete done."
