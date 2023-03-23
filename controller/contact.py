@@ -14,3 +14,8 @@ def get_contact():
 #update lead 
 def remove_contact():
 	print "contact remove done."
+
+
+#update lead 
+def nope_contact():
+	print "contact remove done."
